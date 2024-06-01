@@ -1,0 +1,11 @@
+{
+  "name": "aulas-23-24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luciano Filho",
+  "license": "ISC",
+  "description": "Projeto teste para usar o framework Jest"
+}
